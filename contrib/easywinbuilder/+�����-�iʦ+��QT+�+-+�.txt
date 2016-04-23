@@ -1,0 +1,1 @@
+在msys中运行install.bat,来实现对QT的库的关连,install.bat文件在C:\QT目录中
